@@ -1,1 +1,1 @@
-# MIPT-final-project
+#  Attestative final work MIPT
